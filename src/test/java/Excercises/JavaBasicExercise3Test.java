@@ -48,4 +48,7 @@ public class JavaBasicExercise3Test {
         String partialString = "inni zaczynają bal";
         assertTrue("Full message does not contain partial message", fullString.contains(partialString));
     }
+
+    //Zmiana
+
 }
